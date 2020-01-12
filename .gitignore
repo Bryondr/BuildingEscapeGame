@@ -73,3 +73,5 @@ BuildingEscape/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 BuildingEscape/DerivedDataCache/*
+BuildingEscape/Saved/Crashes/
+BuildingEscape/Saved/Config/CrashReportClient/
